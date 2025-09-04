@@ -1,7 +1,7 @@
 variable "resource_group_name" {
   type        = string
   description = "Name of the resource group."
-  default     = "rg-tf-gha-demo"
+  default     = "rg-az-bloba"
 }
 
 variable "location" {
